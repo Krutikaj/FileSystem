@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Gunner" name="edu.umb.cs.cs680.unittest.VisitSizeCountTest" skipped="0" tests="2" time="0.063" timestamp="2017-04-02T20:38:54">
+  <properties>
+    <property name="env.DESKTOP_SESSION" value="gnome-fallback-compiz" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="env.SELINUX_INIT" value="YES" />
+    <property name="java.home" value="/usr/lib/jvm/java-7-openjdk-amd64/jre" />
+    <property name="env.GDM_LANG" value="en_US" />
+    <property name="env.DISPLAY" value=":0.0" />
+    <property name="env.XDG_VTNR" value="7" />
+    <property name="env.XDG_GREETER_DATA_DIR" value="/var/lib/lightdm-data/vikram" />
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/endorsed" />
+    <property name="env.LOGNAME" value="vikram" />
+    <property name="env.UBUNTU_MENUPROXY" value="0" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="ant.file.CS680-16" value="/home/vikram/Documents/Workspace/CS680-16/build.xml" />
+    <property name="env.XDG_SEAT" value="seat0" />
+    <property name="ECLIPSE_HOME" value="${env.ECLIPSE_HOME}" />
+    <property name="JUNIT_CS680" value="/usr/share/eclipse/dropins/jdt/plugins/org.junit_4.8.2.dist/junit.jar" />
+    <property name="env.SESSION_MANAGER" value="local/Gunner:@/tmp/.ICE-unix/1972,unix/Gunner:/tmp/.ICE-unix/1972" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="env.XDG_SEAT_PATH" value="/org/freedesktop/DisplayManager/Seat0" />
+    <property name="env.MANDATORY_PATH" value="/usr/share/gconf/gnome-fallback-compiz.mandatory.path" />
+    <property name="java.version" value="1.7.0_65" />
+    <property name="eclipse.pdebuild.home" value="/usr/lib/eclipse/dropins/sdk/plugins/org.eclipse.pde.build_3.8.1.dist/.//" />
+    <property name="env.ORACLE_SITE" value="localhost:1521:dbs3" />
+    <property name="env.J2SDKDIR" value="/usr/lib/jvm/java-8-oracle" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.LANGUAGE" value="en_US" />
+    <property name="env.XDG_MENU_PREFIX" value="gnome-flashback-" />
+    <property name="ant.project.invoked-targets" value="batchtest" />
+    <property name="env.XDG_DATA_DIRS" value="/usr/share/gnome-fallback-compiz:/usr/share/gnome:/usr/local/share/:/usr/share/" />
+    <property name="env.GNOME_KEYRING_CONTROL" value="/run/user/1000/keyring-fyckVH" />
+    <property name="env.UPSTART_SESSION" value="unix:abstract=/com/ubuntu/upstart-session/1000/1843" />
+    <property name="user.name" value="vikram" />
+    <property name="env.LANG" value="en_US.UTF-8" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="env.DBUS_SESSION_BUS_ADDRESS" value="unix:abstract=/tmp/dbus-lAwKSy7X3o" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="user.timezone" value="" />
+    <property name="env.GIO_LAUNCHED_DESKTOP_FILE" value="/usr/share/applications/eclipse.desktop" />
+    <property name="path.separator" value=":" />
+    <property name="env.XMODIFIERS" value="@im=ibus" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="env.HOME" value="/home/vikram" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner edu.umb.cs.cs680.unittest.VisitSizeCountTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/vikram/Documents/Workspace/CS680-16/junit/TEST-edu.umb.cs.cs680.unittest.VisitSizeCountTest.xml crashfile=/home/vikram/Documents/Workspace/CS680-16/junitvmwatcher8260110964199594970.properties propsfile=/home/vikram/Documents/Workspace/CS680-16/junit6490662120655456584.properties" />
+    <property name="env.MYSQL_USER" value="kjoshi" />
+    <property name="ant.file" value="/home/vikram/Documents/Workspace/CS680-16/build.xml" />
+    <property name="java.io.tmpdir" value="/tmp" />
+    <property name="env.GNOME_KEYRING_PID" value="1841" />
+    <property name="user.language" value="en" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="target" value="1.7" />
+    <property name="env.SSH_AGENT_LAUNCHER" value="upstart" />
+    <property name="env.SSH_AGENT_PID" value="1897" />
+    <property name="env.J2REDIR" value="/usr/lib/jvm/java-8-oracle/jre" />
+    <property name="env.CLUTTER_IM_MODULE" value="xim" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="source" value="1.7" />
+    <property name="sun.desktop" value="gnome" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.TEXTDOMAIN" value="im-config" />
+    <property name="env.IM_CONFIG_PHASE" value="1" />
+    <property name="env.GDMSESSION" value="gnome-fallback-compiz" />
+    <property name="env.MYSQL_PW" value="kjoshi" />
+    <property name="eclipse.pdebuild.templates" value="/usr/lib/eclipse/dropins/sdk/plugins/org.eclipse.pde.build_3.8.1.dist/templates//" />
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+    <property name="env.DEFAULTS_PATH" value="/usr/share/gconf/gnome-fallback-compiz.default.path" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.3 compiled on April 8 2014" />
+    <property name="env.XDG_SESSION_PATH" value="/org/freedesktop/DisplayManager/Session0" />
+    <property name="env.JOB" value="dbus" />
+    <property name="os.name" value="Linux" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.JUNIT_CS680" value="/usr/share/eclipse/dropins/jdt/plugins/org.junit_4.8.2.dist/junit.jar" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="env.QT_IM_MODULE" value="ibus" />
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib" />
+    <property name="env.PATH" value="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/home/vikram/tomcat/bin" />
+    <property name="eclipse.pdebuild.scripts" value="/usr/lib/eclipse/dropins/sdk/plugins/org.eclipse.pde.build_3.8.1.dist/scripts//" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="env.TEXTDOMAINDIR" value="/usr/share/locale/" />
+    <property name="basedir" value="/home/vikram/Documents/Workspace/CS680-16" />
+    <property name="java.class.version" value="51.0" />
+    <property name="ant.home" value="/usr/share/ant" />
+    <property name="env.TOMCAT_URL" value="http://localhost:8080" />
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+    <property name="env.ORACLE_USER" value="kjoshi" />
+    <property name="env.USER" value="vikram" />
+    <property name="env.GTK_IM_MODULE" value="ibus" />
+    <property name="env.GTK_MODULES" value="overlay-scrollbar:unity-gtk-module" />
+    <property name="ant.project.name" value="CS680-16" />
+    <property name="env.SESSIONTYPE" value="gnome-session" />
+    <property name="ant.file.type.CS680-16" value="file" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="env.NLSPATH" value="/usr/dt/lib/nls/msg/%L/%N.cat" />
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext" />
+    <property name="os.version" value="3.13.0-32-generic" />
+    <property name="env.QT_QPA_PLATFORMTHEME" value="appmenu-qt5" />
+    <property name="user.home" value="/home/vikram" />
+    <property name="env.XDG_CURRENT_DESKTOP" value="Unity" />
+    <property name="HAMCREST_CORE_CS680" value="/usr/share/eclipse/dropins/jdt/plugins/org.hamcrest.core_1.3.0.jar" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="env.MYSQL_SITE" value="localhost:3333" />
+    <property name="env.ORACLE_PW" value="kjoshi" />
+    <property name="env.SESSION" value="gnome-fallback-compiz" />
+    <property name="env.JAVA_HOME" value="/usr/lib/jvm/java-8-oracle" />
+    <property name="env.XDG_SESSION_ID" value="c2" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="env.XAUTHORITY" value="/home/vikram/.Xauthority" />
+    <property name="user.dir" value="/home/vikram/Documents/Workspace/CS680-16" />
+    <property name="env.XFILESEARCHPATH" value="/usr/dt/app-defaults/%L/Dt" />
+    <property name="env.PWD" value="/home/vikram" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="java.vm.version" value="24.65-b04" />
+    <property name="java.class.path" value="/home/vikram/Documents/Workspace/CS680-16/bin:/usr/share/eclipse/dropins/jdt/plugins/org.junit_4.8.2.dist/junit.jar:/usr/share/eclipse/dropins/jdt/plugins/org.hamcrest.core_1.3.0.jar:/usr/share/java/junit-3.8.2.jar:/usr/share/java/ant-launcher-1.9.3.jar:/usr/share/java/ant-1.9.3.jar:/usr/share/java/ant-junit-1.9.3.jar:/usr/share/java/ant-junit4-1.9.3.jar" />
+    <property name="env.DERBY_HOME" value="/usr/lib/jvm/java-8-oracle/db" />
+    <property name="ant.library.dir" value="/usr/share/ant/lib" />
+    <property name="os.arch" value="amd64" />
+    <property name="env.GIO_LAUNCHED_DESKTOP_FILE_PID" value="16538" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="ant.core.lib" value="/usr/share/java/ant-1.9.3.jar" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="file.separator" value="/" />
+    <property name="java.runtime.version" value="1.7.0_65-b32" />
+    <property name="env.SSH_AUTH_SOCK" value="/run/user/1000/keyring-fyckVH/ssh" />
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes" />
+    <property name="env.QT4_IM_MODULE" value="xim" />
+    <property name="env.XDG_CONFIG_DIRS" value="/etc/xdg/xdg-gnome-fallback-compiz:/usr/share/upstart/xdg:/etc/xdg" />
+    <property name="env.XDG_RUNTIME_DIR" value="/run/user/1000" />
+    <property name="env.ANT_HOME" value="/usr/share/ant" />
+    <property name="user.country" value="US" />
+    <property name="env.INSTANCE" value="" />
+    <property name="env.SHELL" value="/bin/bash" />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.HAMCREST_CORE_CS680" value="/usr/share/eclipse/dropins/jdt/plugins/org.hamcrest.core_1.3.0.jar" />
+    <property name="env.GPG_AGENT_INFO" value="/run/user/1000/keyring-fyckVH/gpg:0:1" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="env.CATALINA_HOME" value="/home/vikram/tomcat" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="env.GNOME_DESKTOP_SESSION_ID" value="this-is-deprecated" />
+  </properties>
+  <testcase classname="edu.umb.cs.cs680.unittest.VisitSizeCountTest" name="testinit" time="0.001" />
+  <testcase classname="edu.umb.cs.cs680.unittest.VisitSizeCountTest" name="testsizecount" time="0.001" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
